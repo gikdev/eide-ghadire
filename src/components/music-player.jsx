@@ -42,6 +42,7 @@ export default function MusicPlayer() {
   }
 
   useEffect(() => {
+    audioRef.current.playbackRate = 1
     isPlaying ? audioRef.current.play() : audioRef.current.pause()
   }, [isPlaying])
 
@@ -53,6 +54,12 @@ export default function MusicPlayer() {
     setCurrentIndex(numToSet)
     setIsPlaying(false)
   }
+  function nextAndPlay() {
+    const numToSet = currentIndex >= musics.length - 1 ? 0 : currentIndex + 1
+    setCurrentIndex(numToSet)
+    setIsPlaying(false)
+    setTimeout(() => setIsPlaying(true), 500)
+  }
   function previous() {
     const numToSet = currentIndex <= 0 ? musics.length - 1 : currentIndex - 1
     setCurrentIndex(numToSet)
@@ -63,14 +70,14 @@ export default function MusicPlayer() {
     <div
       className={`flex flex-col items-center gap-10 shadow-image p-4 rounded-2xl max-w-max mx-auto ${themeStyles.bg}`}
     >
-      <audio ref={audioRef} src={audioURL} />
+      <audio onEnded={nextAndPlay} ref={audioRef} src={audioURL} />
       <img
         src={imgURL}
         alt=""
         className={`rounded-2xl max-w-[12.5rem] aspect-square w-full border-4 object-cover shadow-image ${themeStyles.border}`}
       />
       <div className="flex flex-col gap-2">
-        <h3 className="text-neutral-dark-1 text-heading-3">{name}</h3>
+        <h3 className="text-neutral-dark-1 text-heading-3 text-center">{name}</h3>
         <p className="text-neutral-dark-2 text-center">{singer}</p>
       </div>
       <div className={`flex items-center gap-2 ${themeStyles.text}`}>

@@ -26,5 +26,89 @@
     "theme": "neutral",
     "imgURL": "https://cdnimg.kashoob.com/28gzMzF4-ZVrC7gaY34yCpY1HMOf-2AKqKbVdtFg1xg/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIyMDcvMTY1ODE1OTIyMTUzNDk3MDgyMzExNTkuanBn.webp",
     "audioURL": "https://mir1.kashoob.com/audio/202207/enc_16581591953983524323193.mp3"
+  },
+  {
+    "name": "ناد علی یاد علی",
+    "singer": "سید مجید بنی فاطمه",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/wNGE1Lz1fcBhPzbprJMbzldfNco_bG_jcQZdr5vBIuk/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIxMDcvMTYyNzUxNTQ4ODEwMjc5NzEyMDMyMTMuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202107/enc_16275089121850583612260.mp3"
+  },
+  {
+    "name": "بابای من علی",
+    "singer": "سید محمدرضا نوشه ور",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/LCM5lWYiycCvRXmQv1MmhHAk03XrB5_BoN0xfMvhB1w/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODUyMTY2NzI3MjIyODc0ODQ1ODguanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16885215198736494381448.mp3"
+  },
+  {
+    "name": "یا علی مولا",
+    "singer": "حسن کاتب کربلایی",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/5dqZnE-i2dgi4wtkEnrCcsFwtAhHq_3zkKS6kdxWSKw/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDEvMTcwNjEwMTEyMDkzNjM3MDA3Mjc3MDMuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202401/enc_17060532661458228975932.mp3"
+  },
+  {
+    "name": "علی مولا",
+    "singer": "سجاد محمدی و محمد کمیل",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/nSUBGUn_P809rqdfskq2mGsEDlJhpd3rfdpMLLVUml0/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTA4ODEzMzk3Mzc3NDIxMjU0MDIuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17190822280288776637453.mp3"
+  },
+  {
+    "name": "بیعت با تو",
+    "singer": "حاج محمود کریمی",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/2BeF32nlxeI_akL0d_uUH3r_PpnVWEaVsENbLo9i8_U/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODUyMzkzMzIzMjQ1MDU4MzUwMzcuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16885240159195269418380.mp3"
+  },
+  {
+    "name": "سرود جانم علی",
+    "singer": "گروه سرود نجم الثاقب",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/5yOtBcBz9UTRHe6Yqgi_LIxO4F1aGaCxUU985_0Gcoc/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODMxNDg5MzAwOTc2Njc0MTQ4MzIuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16883148568412932893789.mp3"
+  },
+  {
+    "name": "حبل المتین عالم",
+    "singer": "سید رضا نریمانی",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/iFbY6l1yRJRsPMwxY_zppLO0LaQ3Bn7q-yxJwBgURJk/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODQzMzg3MjExMTk3OTIzODU3MTguanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16884329963106115339841.mp3"
+  },
+  {
+    "name": "سلطان جهان",
+    "singer": "محمد فصولی",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/3E95Ba1K3XbiC0JGIplwptpb7Qb2rlbPR3SOFCTZrao/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODczOTQ5NTk1NjQwNTk5NTMzNzkuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16886712575328812465384.mp3"
+  },
+  {
+    "name": "عید الله",
+    "singer": "حسن کاتب کربلایی",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/uhdwTYnElor28ayXfkQzed7V7d_-uVAgROW3MuaI33o/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODUyNTY3OTU2NjA1NzY5NDQ2NjIuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16883357728203409692027.mp3"
+  },
+  {
+    "name": "جان نجف",
+    "singer": "گروه سرود نجم الثاقب",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/YBr64JN2_5QpRjP1vcsqx0SNJle8-fqSgckSq4VPieY/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIyMDcvMTY1NzcwNjgzNzE4NzY3MDQ3MDQ0NjkuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202207/enc_16577070007558114149983.mp3"
+  },
+  {
+    "name": "جانم به نجف",
+    "singer": "محمد فصولی",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/bDlp_s5kMOV27UVW1yqkXkdLntbUdi8JARoPZe4SUmQ/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODY2MTUxODg4OTk3MDkzMzk3NjAuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16886616448501711251924.mp3"
+  },
+  {
+    "name": "فوق بشر",
+    "singer": "سید محمدرضا نوشه ور",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/l_3iND1bX1WuyaDtKkEdObDE5IwHYOBWrEc3ZOcnPuM/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDEvMTcwNjYwNTc3NDUzMjA4ODY5NDQ4MjkuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202401/enc_17063497852366414047285.mp3"
   }
 ]
