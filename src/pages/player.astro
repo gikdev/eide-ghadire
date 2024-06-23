@@ -1,0 +1,10 @@
+---
+import MusicPlayer from "../components/music-player"
+import Base from "../layouts/Base.astro"
+---
+
+<Base title="پلیر">
+  <main class="grid place-items-center min-h-dvh bg-neutral-dark-1">
+    <MusicPlayer client:idle />
+  </main>
+</Base>
