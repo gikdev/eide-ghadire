@@ -8,7 +8,7 @@ const finalTheme =
       : theme === "tertiary"
         ? "bg-tertiary"
         : "bg-neutral-light-1"
-const classes = `border-4 border-current text-neutral-dark-1 rounded-2xl h-16 lg:h-20 px-5 lg:px-6 text-body-medium lg:text-body-big ${finalTheme}`
+const classes = `border-4 border-current text-neutral-dark-1 rounded-2xl h-16 px-5 text-body-medium ${finalTheme}`
 ---
 
 <button class={classes}><slot /></button>

@@ -2,29 +2,29 @@
 import Hr from "./Hr.astro"
 ---
 
-<section class="text-center lg:text-start bg-neutral-light-2 text-neutral-dark-2">
-  <div class="py-10 px-4 flex flex-col gap-6">
-    <h2 class="text-heading-2 lg:text-heading-1 text-neutral-dark-1">درباره «عید غدیره!»</h2>
-    <p class="text-body-small lg:text-body-medium">
+<section class="text-center bg-neutral-light-2 text-neutral-dark-2">
+  <div class="py-10 px-4 xl:py-20 xl:px-8 flex flex-col gap-6 max-w-full sm:max-w-[37.5rem] mx-auto">
+    <h2 class="text-heading-2 text-neutral-dark-1">درباره «عید غدیره!»</h2>
+    <p class="text-body-small">
     چند روز مونده بود به عید غدیر  که اومدم و اینو درست کردم. دوست داشتم برای جشن غدیر یه کاری کرده باشم، از اونجایی که این عید بزرگترین عیدمون هست... 
     </p>
     <Hr />
-    <p class="text-body-small lg:text-body-medium">
+    <p class="text-body-small">
       اگه کاری داشتی من اینجاها هستم:
     </p>
     <div class="flex gap-2 items-center justify-center">
-      <img src="/images/eitaa.png" alt="لوگوی پیام‌رسان ایتا" class="w-12 h-full">
-      <img src="/images/email.png" alt="آیکون ایمیل" class="w-12 h-full">
-      <img src="/images/website.png" alt="سایت شخصی" class="w-12 h-full">
+      <a href="mailto:wd.bahrami@gmail.com" target="_blank" class="hover:scale-125 active:scale-90"><img src="/images/email.png" alt="آیکون ایمیل" class="w-12 h-full"></a>
+      <a href="https://eitaa.com/wd_bahrami" target="_blank" class="hover:scale-125 active:scale-90"><img src="/images/eitaa.png" alt="لوگوی پیام‌رسان ایتا" class="w-12 h-full"></a>
+      <a href="https://gikdev.github.io/blog/" target="_blank" class="hover:scale-125 active:scale-90"><img src="/images/website.png" alt="سایت شخصی" class="w-12 h-full"></a>
     </div>
-    <Hr />
-    <p class="text-body-small lg:text-body-medium">
+    <!-- <Hr />
+    <p class="text-body-small">
       این سایت با این ابزارها درست شده:
     </p>
     <div class="flex gap-2 items-center justify-center">
       <img src="/images/tailwind.png" alt="فریمورک TailwindCSS" class="w-12 h-full">
       <img src="/images/astro.png" alt="فریمورک astro" class="w-12 h-full">
       <img src="/images/react.png" alt="کتابخانه ReactJS" class="w-12 h-full">
-    </div>
+    </div> -->
   </div>
 </section>
