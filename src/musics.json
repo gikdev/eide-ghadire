@@ -1,0 +1,30 @@
+[
+  {
+    "name": "حب علی",
+    "singer": "سید رضا نریمانی",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/HZxQjgmuOuVdZMsoYb09PFOLR95SvHpOxnx_AynnQAg/wm:0.8:sowe:15:15:0.18/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIxMDcvMTYyNzUwNzczMDAyNzIyNTA2NDk2MTQuanBn.jpg",
+    "audioURL": "https://mir1.kashoob.com/audio/202107/enc_16274681040917387169326.mp3"
+  },
+  {
+    "name": "بیعت با علی",
+    "singer": "ابوذر روحی",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/gw3IdKHkpiiG6oHHvm5x1CH572Sfubo9-2_Ewn8nH6M/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODMxODY1Njg2NjcwMjc0MzM4OTQuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16883183490391081798728.mp3"
+  },
+  {
+    "name": "مست نجف",
+    "singer": "علی اکبر حائری",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/4y1qjvnJoziVOf7s6uw2dfjugjxtt9-iW2RQy9GJeRE/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIzMDcvMTY4ODY2MDM1OTIzOTY2NjMyNDQ3MjcuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202307/enc_16886604346303551066363.mp3"
+  },
+  {
+    "name": "خلیفة الله",
+    "singer": "حسن کاتب کربلایی",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/28gzMzF4-ZVrC7gaY34yCpY1HMOf-2AKqKbVdtFg1xg/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIyMDcvMTY1ODE1OTIyMTUzNDk3MDgyMzExNTkuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202207/enc_16581591953983524323193.mp3"
+  }
+]
