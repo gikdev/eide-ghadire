@@ -79,6 +79,9 @@ export default function MusicPlayer() {
       <div className="flex flex-col gap-2">
         <h3 className="text-neutral-dark-1 text-heading-3 text-center">{name}</h3>
         <p className="text-neutral-dark-2 text-center">{singer}</p>
+        <p className="text-neutral-dark-2 text-center text-xs">
+          درحال پخش {currentIndex + 1} از {musics.length}
+        </p>
       </div>
       <div className={`flex items-center gap-2 ${themeStyles.text}`}>
         <button onClick={next} type="button" className="active:scale-90">
