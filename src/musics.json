@@ -110,5 +110,33 @@
     "theme": "neutral",
     "imgURL": "https://cdnimg.kashoob.com/l_3iND1bX1WuyaDtKkEdObDE5IwHYOBWrEc3ZOcnPuM/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDEvMTcwNjYwNTc3NDUzMjA4ODY5NDQ4MjkuanBn.webp",
     "audioURL": "https://mir1.kashoob.com/audio/202401/enc_17063497852366414047285.mp3"
+  },
+  {
+    "name": "غدیریه ایران",
+    "singer": "علی اکبر حائری و محمد ابراهیمی اصل",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/MPX1T45YvYZFJjw1RwcxbXOwCDN19aBTiqrbQDlVO0I/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTE3OTA5MjI2MjU2Nzg3OTIzMzUuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17191784010252461678347.mp3"
+  },
+  {
+    "name": "حب علی اجننی",
+    "singer": "حسن کاتب کربلایی",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/CQNU5ntgNdR-MF4FhauTt7WFoBaAJQbbLiETqZ3Z-gU/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTA5MzEwODA3NjIxMjEzNTU0NzAuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17190048454785537161995.mp3"
+  },
+  {
+    "name": "همیشه به شادی",
+    "singer": "عبدالرضا هلالی",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/LIm0yRnmy8sBKIiE8AP0WoauglvaFazlppwZ0b19IiM/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTE4MDA4MzAxMjMyMjAxODU0OTcuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17191795716187312114349.mp3"
+  },
+  {
+    "name": "سفره مولا",
+    "singer": "محمد ابراهیمی اصل",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/H0GsQP12xGYbEum6Q-cwt079UYL2TXe9ZGpREdPs4Jk/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTI0MzkzMjc2NDM0NjE4Njk0NDguanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17192438643189164692841.mp3"
   }
 ]
