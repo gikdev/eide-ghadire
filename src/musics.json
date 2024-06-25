@@ -138,5 +138,19 @@
     "theme": "neutral",
     "imgURL": "https://cdnimg.kashoob.com/H0GsQP12xGYbEum6Q-cwt079UYL2TXe9ZGpREdPs4Jk/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTI0MzkzMjc2NDM0NjE4Njk0NDguanBn.webp",
     "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17192438643189164692841.mp3"
+  },
+  {
+    "name": "حب علی",
+    "singer": "مجتبی رمضانی",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/QNap_lIqVAFO1x5zM8iZmPeWE1qaI1CM1t9orRqSxQ8/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTMxNTEyNjkzOTAwNjk1MDkxMTQuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17193145787649889512234.mp3"
+  },
+  {
+    "name": "غدیر خم تا مباهله",
+    "singer": "محمد حسین پویانفر",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/QRVxMfUFMq2PZJZ2LBVh09P12LNA61n00qSWSlJNaEQ/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTM0NjY1NDU5NjAwMDI1NTM2NTguanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17193444228386983869712.mp3"
   }
 ]
