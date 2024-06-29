@@ -77,7 +77,7 @@ export default function MusicPlayer() {
         className={`rounded-2xl max-w-[12.5rem] aspect-square w-full border-4 object-cover shadow-image ${themeStyles.border}`}
       />
       <div className="flex flex-col gap-2">
-        <h3 className="text-neutral-dark-1 text-heading-3 text-center">{name}</h3>
+        <h3 className="text-neutral-dark-1 text-heading-3 text-center max-w-60">{name}</h3>
         <p className="text-neutral-dark-2 text-center">{singer}</p>
         <p className="text-neutral-dark-2 text-center text-xs">
           درحال پخش {currentIndex + 1} از {musics.length}
