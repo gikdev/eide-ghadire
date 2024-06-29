@@ -150,7 +150,56 @@
     "name": "غدیر خم تا مباهله",
     "singer": "محمد حسین پویانفر",
     "theme": "secondary",
-    "imgURL": "https://cdnimg.kashoob.com/QRVxMfUFMq2PZJZ2LBVh09P12LNA61n00qSWSlJNaEQ/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTM0NjY1NDU5NjAwMDI1NTM2NTguanBn.webp",
+    "imgURL": "https://cdnimg.kashoob.com/Uu5kHG6QLFwDqbH85POkh-GLZpIAip0__ELjOZk1Zlk/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxOTU3MTg2NzA0NzE2NTY2NDE1NzYuanBn.webp",
     "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17193444228386983869712.mp3"
+  },
+  {
+    "name": "ولی الله یا حیدر",
+    "singer": "سید رضا نریمانی",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/5SwZ0SNZaUK6EuI4d9rLpcIf1fxGbyvc_qnFHZXm5Ug/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIyMDcvMTY1ODE2MDIyMTMwOTcxMzA1MTgyMDQuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202207/enc_1658160209617814890701.mp3"
+  },
+  {
+    "name": "هدیه اسباب بازی",
+    "singer": "عبدالرضا هلالی و محمد حسین پویانفر",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/Xxkn7Ka4peeL-IwdoJoWsxTNSSNPMf2FFADSTy9L6Ow/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIyMDcvMTY1NzQxNTI0MDA1NDUzMDI0NjI4NjAuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202207/enc_16574683924470802547746.mp3"
+  },
+  {
+    "name": "بابا حیدر",
+    "singer": "گروه سرود نجم الثاقب",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/mUHCwgSTY9lMuhoTqwOvDp_D7BLrI_lGkcmj-fLIF4o/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDYvMTcxODk4MzM4ODg3NzEzMDQwODQwNTguanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202406/enc_17189833583078076558103.mp3"
+  },
+  {
+    "name": "پاشو بریم نجف",
+    "singer": "محمد فصولی",
+    "theme": "secondary",
+    "imgURL": "https://cdnimg.kashoob.com/FJvCe6oJHA14s91mV_so1v-fJrVgpVVC4jUtdFYNMKA/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDIyMDcvMTY1Nzk4MzM2MjE1MTEyMjIzOTk3NzEuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202207/enc_16579833451035938615010.mp3"
+  },
+  {
+    "name": "قبله نما",
+    "singer": "مهدی رسولی",
+    "theme": "tertiary",
+    "imgURL": "https://cdnimg.kashoob.com/7FnMpxCysamwcLRmTr35GMRltlvVrOamkxkLawGI-vU/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDMvMTcxMTgyMDg4MTA0NTM4NTUwMDE4OTUuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202403/enc_171182082477017912467.mp3"
+  },
+  {
+    "name": "دست بالای دست حیدر نیست",
+    "singer": "حنیف طاهری",
+    "theme": "neutral",
+    "imgURL": "https://cdnimg.kashoob.com/XQ_ioevMyRp-50ULvM6AaCiXgTGGlJWxzBLhVHf2XiY/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDEvMTcwNjEwNTg0NDA1MjY2NzkxOTUwNy5qcGc.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202401/enc_17061058247849171024733.mp3"
+  },
+  {
+    "name": "به به به نجف",
+    "singer": "امیر برومند",
+    "theme": "primary",
+    "imgURL": "https://cdnimg.kashoob.com/bMnNBGmosYkJFCjCeJ4PBPzmI67A0PV7gaAQTGC_sZU/fill/200/200/sm/1/bG9jYWw6Ly8vc3RvcmFnZS9pbWFnZS8yMDI0MDEvMTcwNjEwNTM2ODU3MzAxMjc0NzM2NTAuanBn.webp",
+    "audioURL": "https://mir1.kashoob.com/audio/202401/enc_1706039545271603422417.mp3"
   }
 ]
